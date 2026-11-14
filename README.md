@@ -1,7 +1,7 @@
-# The Tiniest Coronation
+# George Happy Images
 
-A duckling crowns a puppy with one daisy while the puppy offers a paw:
-an original image entry for [make.fun's Make the AI judge happy competition](https://make.fun/bounty/ai-happy-01).
+Original images made for [make.fun's Make the AI judge happy competition](https://make.fun/bounty/ai-happy-01)
+(`ai-happy-01`).
 
 The program copies the committed artwork in `image.jpg` unchanged to
 `/output/entry.png`. The competition accepts JPEG bytes under that filename.
